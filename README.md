@@ -9,7 +9,9 @@
  
  
  
- **On this project, we collaborated with Pewlett Hackard, a very Terenure and well-known company that is now implementing retiring packages for their employees. They have decided that they will be using SQL for their segmentation processes. On this project, we will be assisting Bobby, an analyst from the human resources department interested in finding out what employees will be retiring in a near future and what positions will be vacant to find new potential candidates for the available roles. Pewlett Hackard was used to all their data analysis with VBA and excel; however, taking into consideration the enormous amounts of data handled in the company moving to SQL is the best decision..**
+ 
+ 
+ **On this project, we collaborated with Pewlett Hackard, a very Terenure and well-known company that is now implementing retiring packages for their employees. They have decided that they will be using SQL for their segmentation processes. On this project, we will be assisting Bobby, an analyst from the human resources department interested in finding out what employees will be retiring in a near future and what positions will be vacant to find new potential candidates for the available roles. Pewlett Hackard was used to all their data analysis with VBA and excel; however, taking into consideration the enormous amounts of data handled in the company moving to SQL is the best decision.**
 
 
 

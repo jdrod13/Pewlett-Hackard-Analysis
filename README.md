@@ -57,18 +57,20 @@
 
     
    
--	**The first step was creating the unique titles table and joining the employees and titles tables, then filtered them by birth and the dates that the employees were hired. It is essential to ensure that there are no duplicates in our data and ordered them by data engaged; we conclude that about 90,398 employees are retiring as per the above criterion.**
+
+**The first step was creating the unique titles table and joining the employees and titles tables, then filtered them by birth and the dates that the employees were hired. It is essential to ensure that there are no duplicates in our data and ordered them by data engaged; we conclude that about 90,398 employees are retiring as per the above criterion.**
 
 
 
 
--	 **Then, we formatted the mentorship eligibility table by joining the employees. There were about 1,549 employees eligible for the mentorship program; all eligible employees were constituted by 402 Engineers, 392 Senior staff, 290 senior Engineers, 77 technique leaders, and 56 assistants.**
+
+**Then, we formatted the mentorship eligibility table by joining the employees. There were about 1,549 employees eligible for the mentorship program; all eligible employees were constituted by 402 Engineers, 392 Senior staff, 290 senior Engineers, 77 technique leaders, and 56 assistants.**
 
 
  
  ### Summary
 
-What are the advantages and recommendations that could contribute to the operations?
+**What are the advantages and recommendations that could contribute to the operations?.**
 
 
 -	**The advantage of using the silver tsunami approach is that we should be aware that we are looking for 13,505 employees while preparing all the data. The number represents the number of people currently working on the company since it was funded, and the birth date is between a range from 1962 to 1965 that are eligible to retire. The idea is to offers this employee the mentorship program implemented by the corporate section of the company, so the company keeps this retiring employee mentoring new hires employees.**
@@ -76,6 +78,8 @@ What are the advantages and recommendations that could contribute to the operati
 
 
 -	**Then we use this code to see if there are many mentors in different departments, so the employees leaving table was created.**
+
+
 
 
 **SELECT DISTINCT ON (emp_no) e.emp_no, d.dept_name, e.first_name, e.last_name, e.birth_date, de.from_date, de.to_date, t.title**
